@@ -9,9 +9,19 @@
 
 Those are the technologies I feel confident in but I am pretty good at quickly figuring out writing in anything tho.
 
+## 👩‍💻 Check out these projects 
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
     <a href="https://github.com/Cartiilov/Neutrino-Categorizing-Graph-Neural-Network">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Neutrino-Categorizing-Graph-Neural-Network&theme=nightowl&show_owner=false" alt="Neutrino-Categorizing-Graph-Neural-Network">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cartiilov&repo=Neutrino-Categorizing-Graph-Neural-Network&theme=dracula&show_owner=false" alt="Neutrino-Categorizing-Graph-Neural-Network">
+    </a>
+    <a href="https://github.com/Cartiilov/Simple-Advertising-Service">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cartiilov&repo=Simple-Advertising-Service&theme=dracula&show_owner=false" alt="Simple-Advertising-Service">
+    </a>
+    <a href="https://github.com/Cartiilov/Cubic_Graphs_dual_to_Maximal_Planars">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cartiilov&repo=Cubic_Graphs_dual_to_Maximal_Planars&theme=dracula&show_owner=false" alt="Cubic_Graphs_dual_to_Maximal_Planars">
+    <a href="https://github.com/Cartiilov/BD2-IS-2023-GenealogyTree">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cartiilov&repo=BD2-IS-2023-GenealogyTree&theme=dracula&show_owner=false" alt="BD2-IS-2023-GenealogyTree">
     </a>
 </div>
 
