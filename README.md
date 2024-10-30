@@ -9,6 +9,12 @@
 
 Those are the technologies I feel confident in but I am pretty good at quickly figuring out writing in anything tho.
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <a href="https://github.com/Cartiilov/Neutrino-Categorizing-Graph-Neural-Network">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Critteros&repo=Neutrino-Categorizing-Graph-Neural-Network&theme=nightowl&show_owner=false" alt="Neutrino-Categorizing-Graph-Neural-Network">
+    </a>
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=cartiilov&icon=0&color=0)](https://visitcount.itsvg.in)
 
