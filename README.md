@@ -1,7 +1,7 @@
 ## Hi there, my name is Karolina👋
 
 # 💫 About Me:
-🔭 I am currently working on completing my MEng in applied computer science<br>🌱 I work as a junior software dev at a telecommunication company where I develop microservice 5G<br>🎮 My favorite games are Stardew Valley and Baldur's Gate 3<br>📖 I love reading, especially fantasy
+🔭 I am currently working on completing my MEng in applied computer science<br>🌱 I work as a junior software engineer at a telecommunication company where I develop microservice 5G<br>🎮 My favourite games are Stardew Valley and Baldur's Gate 3<br>📖 I love reading, especially fantasy
 
 
 # 💻 Tech Stack:
